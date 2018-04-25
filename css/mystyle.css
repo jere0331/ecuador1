@@ -1,0 +1,35 @@
+
+.jumbotron{
+    
+    height: 800px;
+   
+}
+.bg-info {
+    background-image: url("../images/UIO3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.img-fluid{
+    
+    width: 400px;
+    height: 250px;
+}
+
+.w-100{
+    
+    width: 1500px;
+    height: 600px;
+}
+
+.bg-info1 {
+    background-image: url("../images/galapagos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.background-color{
+  color: grey;
+    
+}
